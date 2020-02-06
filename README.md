@@ -22,9 +22,15 @@ AR Foundation is a set of  `MonoBehaviour`s and APIs for dealing with devices th
 
 Hello ! this project was made using unity Augmented Reality you will need to use unity packages in the project
 packages you need to add
+
+To install this package, follow the instructions in the Package Manager documentation.
+
+Subsystems are implemented in other packages, so to use AR Foundation, you will also need to install at least one platform-specific AR package (Window > Package Manager):
 # Download unity Packets
--# AR Foundation
--# ARCore XR Plugin
--# ARkit XR Plugin
+AR Foundation
+ARKit XR Plugin
+ARCore XR Plugin
+
+
 
 
